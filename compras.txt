@@ -7,4 +7,6 @@ carne
 cerveja
 macarrão
 nescau
-
+tomate
+fava
+laranja
