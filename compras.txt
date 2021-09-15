@@ -19,3 +19,5 @@ Maçã
 Cuscuz
 margarina
 vinho
+biscoito
+agua
